@@ -32,6 +32,7 @@ To complete Part I, fulfill the following requirements:
 2. Create the following:
 * HTML file
 * CSS file
+* JS file 
 3. Link all of your files correctly.
 
 ### Part II HTML
